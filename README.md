@@ -1,5 +1,5 @@
 # Iota-bmp-image-file-editor
-The following project represents a finished task upon which it was assigned to put file handling to practice using bmp image files.
+A C program capable of manipulating .bmp image files, with tools such as basic horizontal blur, color filters, and image cropping.
 
 ## Assigned Task
 ```
